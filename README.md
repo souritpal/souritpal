@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @souritpal
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Deta insights
-- 📫 reach me @souritpal
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on Deta insights projects.
+- 📫 reach me souritpal96@gmsil.com
 
 
 <!---

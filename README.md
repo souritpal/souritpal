@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @souritpal
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Deta insights projects.
-- 📫 reach me souritpal96@gmsil.com
+
+- 🖥️ I’m currently working in **Infrastructure Engineering**, focusing on Linux, VMware, Storage, Networking, and Cloud Infrastructure.
+
+- 🌱 I’m currently learning **DevOps, Git, Jenkins, Ansible, and Cloud technologies**.
+
+- 🤖 I’m also exploring **AI, automation, and infrastructure automation** to simplify enterprise IT operations.
+
+- I’m looking to collaborate on **Infrastructure, DevOps, Automation, and AI-driven projects**.
+
+- 📫 Reach me at [souritpal96@gmail.com](mailto:souritpal96@gmail.com)
 
 
 <!---
